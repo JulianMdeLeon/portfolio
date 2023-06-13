@@ -390,7 +390,13 @@ p.footer-sub
 {
 	color: var(--White);
 	font-size: 14pt;
-	margin-top: 14px;
+	margin-top: 0px;
+}
+
+p.MiniTOC1
+{
+	color: #6495ed;
+	text-decoration: underline;
 }
 
 @media only screen and (max-width: 1279px)
