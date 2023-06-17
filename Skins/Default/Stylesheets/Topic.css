@@ -446,6 +446,19 @@ video._videodesc_0
 	width: 800px;
 }
 
+.img
+{
+	border: none;
+	max-width: 100%;
+}
+
+.img.imgdesc
+{
+	float: left;
+	padding-right: 0px;
+	width: 800px;
+}
+
 div.MCMiniTocBox_0
 {
 	border-top-width: 1px;
