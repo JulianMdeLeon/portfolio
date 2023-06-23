@@ -530,9 +530,9 @@ p.MiniTOC1
 
 img.desc
 {
-	float: left;
 	padding-right: 0px;
 	width: 800px;
+	float: right;
 }
 
 img.hero
