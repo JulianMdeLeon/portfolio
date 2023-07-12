@@ -543,5 +543,6 @@ img.hero
 object.videodesc
 {
 	width: 800px;
+	float: right;
 }
 

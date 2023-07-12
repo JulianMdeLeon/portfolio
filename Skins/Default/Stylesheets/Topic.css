@@ -444,6 +444,7 @@ video._videodesc_0
 {
 	display: inline-block;
 	width: 800px;
+	float: right;
 }
 
 .img
