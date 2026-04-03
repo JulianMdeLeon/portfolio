@@ -440,6 +440,18 @@ div.MCBreadcrumbsBox_0
 	margin-bottom: 10px;
 }
 
+video._0
+{
+	display: inline-block;
+}
+
+iframe.youtube-player_0
+{
+	display: inline-block;
+	width: 560px;
+	height: 315px;
+}
+
 video._videodesc_0
 {
 	display: inline-block;
@@ -460,7 +472,7 @@ video._videodesc_0
 	float: right;
 }
 
-iframe.youtube-player_0
+iframe.object1
 {
 	display: inline-block;
 	max-width: 1300px;

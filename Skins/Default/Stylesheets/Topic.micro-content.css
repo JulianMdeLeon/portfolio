@@ -440,6 +440,18 @@
 	margin-bottom: 10px;
 }
 
+.micro-response-125666354 video._0
+{
+	display: inline-block;
+}
+
+.micro-response-125666354 iframe.youtube-player_0
+{
+	display: inline-block;
+	width: 560px;
+	height: 315px;
+}
+
 .micro-response-125666354 video._videodesc_0
 {
 	display: inline-block;
@@ -460,7 +472,7 @@
 	float: right;
 }
 
-.micro-response-125666354 iframe.youtube-player_0
+.micro-response-125666354 iframe.object1
 {
 	display: inline-block;
 	max-width: 1300px;
